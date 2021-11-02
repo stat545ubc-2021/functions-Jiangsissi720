@@ -99,7 +99,7 @@ StrSplitP <- function(x,
 # Split the data
 # @param data and the data source to be handled
 # @param use the function of StrSplitP to split the data into the pattern you want
-# @return the output result
+# @return the split data result
 
 # @examples
 # str
