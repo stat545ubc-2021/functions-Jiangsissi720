@@ -1,0 +1,20 @@
+Package: StrSplitP
+Title: What the Package Does (One Line, Title Case)
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Qianhui",
+           family = "Jiang",
+           role = c("aut", "cre"),
+           email = "qianhuijiang720@163.com",
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: Many useful functions have been created in R. However, some improvement sill can be made to bring convenience to our data analysis. In this package, there will be more functions with further improvement provided.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.2
+Imports: 
+    strsplit
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
