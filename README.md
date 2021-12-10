@@ -17,6 +17,7 @@ You can install the released version of StrSplitP with:
 install.packages("StrSplitP")
 devtools::install_github("stat545ubc-2021/functions-Jiangsissi720")
 ```
+## New add
 
 ## Example
 
